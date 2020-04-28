@@ -1,7 +1,7 @@
 {
   "name": "pashster/future-time-page",
   "description": "Библиотека для знакомства с менеджером",
-  "version" : "1.0.1",
+  "version" : "1.0.2",
   "type": "project",
   "license": "GNU GPL",
   "authors": [
