@@ -1,0 +1,18 @@
+{
+  "name": "pashster/future-time",
+  "description": "Библиотека для знакомства с менеджером",
+  "version" : "1.0.1",
+  "type": "project",
+  "license": "GNU GPL",
+  "authors": [
+    {
+      "name": "Pavel Schetkin",
+      "email": "pasha.schetkin@gmail.com"
+    }
+  ],
+  "autoload" : {
+    "psr-4" : {
+      "FutureTimePage\\" : "src/FutureTimePage/"
+    }
+  }
+}
