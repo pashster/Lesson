@@ -12,7 +12,7 @@
   ],
   "autoload" : {
     "psr-4" : {
-      "FutureTimePage\\" : "src/FutureTimePage/"
+      "FutureTime\\" : "src/FutureTimePage/"
     }
   }
 }
